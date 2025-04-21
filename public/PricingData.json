@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": "$29/month",
+      "description": "Great for beginners looking to get started.",
+      "features": [
+        "Access to gym equipment",
+        "1 fitness assessment",
+        "Locker room access"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "price": "$49/month",
+      "description": "Perfect for regular gym-goers.",
+      "features": [
+        "All Basic features",
+        "Unlimited group classes",
+        "Free WiFi",
+        "1 guest pass/month"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elite",
+      "price": "$99/month",
+      "description": "All-inclusive plan for dedicated fitness lovers.",
+      "features": [
+        "All Standard features",
+        "4 personal training sessions/month",
+        "Sauna & steam room access",
+        "Private locker",
+        "Nutrition consultation"
+      ]
+    }
+  ]
